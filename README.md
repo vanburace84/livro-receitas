@@ -1,6 +1,10 @@
-#Livro de Receitas : man cookie
-Olá , Bem vindo ao meu livro de receitas.
+#Livro de Receitas :man_cookie
+Olá , Bem vindo ao meu livro de receitas:wave
 
-Strogonoff de frango
+- Strogonoff de frango
 
-Pave
+- Pave
+==========
+
+- Bolo de cenoura
+
